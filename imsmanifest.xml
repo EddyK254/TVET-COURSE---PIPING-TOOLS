@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_63e1W1AzIiK" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Use of piping tools and equipment</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Use_of_piping_tools_and_equipment_ORG">
+    <organization identifier="Use_of_piping_tools_and_equipment_ORG">
+      <title>Use of piping tools and equipment</title>
+      <item identifier="Use_of_piping_tools_and_equipment_SCO" isvisible="true" identifierref="__63e1W1AzIiK_RES">
+        <title>Use of piping tools and equipment</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__63e1W1AzIiK_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6hyf3L0Kimw_18_160_1280x720.mp4" />
+      <file href="mobile/poster_6a1rSWfifoh_video_6hyf3L0Kimw_18_160_1280x720.jpg" />
+      <file href="mobile/5mnEEcEvKto.png" />
+      <file href="mobile/69hVlQxs6Lp.png" />
+      <file href="story_content/video_6NiSOyVnBWZ_18_160_1280x720.mp4" />
+      <file href="story_content/video_6BaafrRgajA_18_160_1280x720.mp4" />
+      <file href="mobile/poster_685QRHYsIuL_video_6BaafrRgajA_18_160_1280x720.jpg" />
+      <file href="mobile/5eIOqI4qdJo.png" />
+      <file href="mobile/5s6mif9MoBN.jpg" />
+      <file href="mobile/5izypmvsbDY.jpg" />
+      <file href="mobile/6VuKwwo2zx3.jpg" />
+      <file href="mobile/5mN0CbJxSRV.jpg" />
+      <file href="story_content/6MGqoP36QAA_44100_160_0.mp3" />
+      <file href="story_content/video_63dxatiFrNP_18_160_1280x720.mp4" />
+      <file href="story_content/video_65iP4ixlKlE_18_160_1280x720.mp4" />
+      <file href="mobile/poster_69z40Oc4jBK_video_65iP4ixlKlE_18_160_1280x720.jpg" />
+      <file href="story_content/video_5imCIH6WNNv_18_160_1280x720.mp4" />
+      <file href="mobile/poster_5UkK2s6XzXr_video_5imCIH6WNNv_18_160_1280x720.jpg" />
+      <file href="story_content/video_6LgJ4C6s7SI_18_160_1280x720.mp4" />
+      <file href="mobile/poster_5cEjhmwYAVy_video_6LgJ4C6s7SI_18_160_1280x720.jpg" />
+      <file href="story_content/video_6GqtNvJOiWz_18_160_1280x720.mp4" />
+      <file href="mobile/poster_6h9dAvL7CAW_video_6GqtNvJOiWz_18_160_1280x720.jpg" />
+      <file href="mobile/6LMPuIWpj9j_P_0_-7_640_653.jpg" />
+      <file href="story_content/60EUoyUIdPk_44100_160_0.mp3" />
+      <file href="story_content/OutlinedDiamond_FFFFFF_F2F2F2.jpg" />
+      <file href="mobile/6hvLPx8fKFA_P_141_12_482_411.jpg" />
+      <file href="story_content/67YVcoorOC7_44100_160_0.mp3" />
+      <file href="mobile/5kprQb7OFi6_P_0_74_1000_851.jpg" />
+      <file href="story_content/6cmqvlIhO3a_44100_160_0.mp3" />
+      <file href="mobile/67JL12GDoQF_P_0_229_1223_1315.jpg" />
+      <file href="story_content/6VlpbC0DWaH_44100_160_0.mp3" />
+      <file href="mobile/6k4aQOnocyn_P_0_53_720_612.jpg" />
+      <file href="story_content/6iIStXqX3au_44100_160_0.mp3" />
+      <file href="mobile/6fmGfM548qL_P_0_74_1000_851.jpg" />
+      <file href="story_content/5e48N9e6o69_44100_160_0.mp3" />
+      <file href="mobile/5s6mif9MoBN_P_0_74_1000_851.jpg" />
+      <file href="story_content/5mNAFcbhMju_44100_160_0.mp3" />
+      <file href="story_content/video_5sDICAHyU20_18_160_1280x720.mp4" />
+      <file href="mobile/poster_6SG8ogGsQhG_video_5sDICAHyU20_18_160_1280x720.jpg" />
+      <file href="story_content/video_60DPguFBKo9_18_160_1280x720.mp4" />
+      <file href="mobile/poster_5yfN4edNqRF_video_60DPguFBKo9_18_160_1280x720.jpg" />
+      <file href="mobile/6M5WQS40dxK.png" />
+      <file href="mobile/69ZQWMDzCeW.png" />
+      <file href="story_content/6Q9Fc4lmRiw_44100_160_0.mp3" />
+      <file href="story_content/6rJ6eosjwyw_44100_160_0.mp3" />
+      <file href="mobile/5aK8IR670SQ.jpg" />
+      <file href="story_content/6XcLUxisKui_44100_160_0.mp3" />
+      <file href="mobile/6jGrErcXgNE.jpg" />
+      <file href="story_content/6K3bm4tp8Iv_44100_160_0.mp3" />
+      <file href="mobile/5YTuWOyO5rN.jpg" />
+      <file href="story_content/5i8wisABBPZ_44100_160_0.mp3" />
+      <file href="mobile/6WJ3HByUThe.jpg" />
+      <file href="story_content/video_5i6hMbS1By5_18_160_1280x720.mp4" />
+      <file href="story_content/video_5ffoqG1d26J_18_160_1280x720.mp4" />
+      <file href="mobile/6WHulR7LI7J.jpg" />
+      <file href="mobile/6XpiNb87jVh.jpg" />
+      <file href="mobile/61G7KIfXGWl.jpg" />
+      <file href="mobile/6JxTHYr0Jor.jpg" />
+      <file href="story_content/5l3WDJbQAtI_44100_160_0.mp3" />
+      <file href="mobile/6HHZT6370L1.jpg" />
+      <file href="story_content/6ZSEICBY8gz_44100_160_0.mp3" />
+      <file href="mobile/6bdPJ7aIZvM.jpg" />
+      <file href="story_content/6gHX3Gw4kq3_44100_160_0.mp3" />
+      <file href="mobile/6MfgiPxnNQk.png" />
+      <file href="story_content/video_5WUOovZdUX0_18_160_1280x720.mp4" />
+      <file href="mobile/poster_5abUwR4Hgcx_video_5WUOovZdUX0_18_160_1280x720.jpg" />
+      <file href="story_content/video_6P8hiPklF8G_18_160_1280x720.mp4" />
+      <file href="mobile/poster_6gxZzTv916D_video_6P8hiPklF8G_18_160_1280x720.jpg" />
+      <file href="story_content/6ktE4mL6PTl_44100_160_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5xxNk1scuT9.png" />
+      <file href="mobile/Shape62HlNAJRR2z.png" />
+      <file href="mobile/Shape5YhxCd1IbeT.png" />
+      <file href="mobile/Shape6iF6D77JsNz.png" />
+      <file href="mobile/txt__default_5oUy7k58Wsg.png" />
+      <file href="mobile/txt__default_6I4IFJZx7SZ.png" />
+      <file href="mobile/txt__default_6Dc0L9Guq44.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bNqdJr9G5s.js" />
+      <file href="html5/data/js/5cpxGiRtn6K.js" />
+      <file href="html5/data/js/5fxq1gSkS8w.js" />
+      <file href="html5/data/js/5iaiDmRunHW.js" />
+      <file href="html5/data/js/5iIWEMeI7yn.js" />
+      <file href="html5/data/js/5iKZTBTfyxm.js" />
+      <file href="html5/data/js/5qKCiReRDyg.js" />
+      <file href="html5/data/js/5qzpXCHfVAY.js" />
+      <file href="html5/data/js/5t5JQhL2VXg.js" />
+      <file href="html5/data/js/5ujvh1mqVJa.js" />
+      <file href="html5/data/js/5Uk7uMUTUfl.js" />
+      <file href="html5/data/js/5VqJfs7RqX4.js" />
+      <file href="html5/data/js/5XWNuWAjhqM.js" />
+      <file href="html5/data/js/5y9wvrGeUoE.js" />
+      <file href="html5/data/js/63onvsLlkdN.js" />
+      <file href="html5/data/js/68YfiQvbasV.js" />
+      <file href="html5/data/js/6aa7bqzdRry.js" />
+      <file href="html5/data/js/6aLQC1tRKOV.js" />
+      <file href="html5/data/js/6DRrB3T68AR.js" />
+      <file href="html5/data/js/6fLuOQlThbu.js" />
+      <file href="html5/data/js/6K5AHX7RYkC.js" />
+      <file href="html5/data/js/6KjEKBwlyuB.js" />
+      <file href="html5/data/js/6MeCoqWArhU.js" />
+      <file href="html5/data/js/6N0BMte5mAD.js" />
+      <file href="html5/data/js/6NrPh3xPxBC.js" />
+      <file href="html5/data/js/6PjMDgBYGw6.js" />
+      <file href="html5/data/js/6PRWqb8xyRt.js" />
+      <file href="html5/data/js/6qzxIqDFkdR.js" />
+      <file href="html5/data/js/6Xd5GwFPtM3.js" />
+      <file href="html5/data/js/6ZkH2hmTsRI.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
